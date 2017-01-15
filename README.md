@@ -1,2 +1,2 @@
 # esp8266-ws2812b
-esp8266 &amp; ws2812b strip
+Simple project to control WS2812B led strip using ESP8266 over wifi.
